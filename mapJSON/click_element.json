@@ -1,0 +1,11 @@
+{
+  "LOGIN_BUTTON": {
+    "id": "login"
+  },
+  "SIGNIN_BUTTON": {
+    "id": "btnLogin"
+  },
+  "SEARCH_BUTTON": {
+    "cssSelector": "#SearchBoxOld > div > div > div.SearchBoxOld-buttonContainer"
+  }
+}

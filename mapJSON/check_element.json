@@ -1,0 +1,9 @@
+{
+  "CHECK_LOGIN": {
+    "cssSelector": "#myAccount > span > a > span.OldMyAccount-2BwAt"
+  },
+  "SEARCH_LOG": {
+    "cssSelector": ".product-detail > h3 > div > p > span"
+  }
+
+}

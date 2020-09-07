@@ -1,0 +1,11 @@
+{
+  "USERNAME_INPUT": {
+    "id": "txtUserName"
+  },
+  "PASSWORD_INPUT": {
+    "id": "txtPassword"
+  },
+  "SEARCH_INPUT": {
+    "cssSelector": "#SearchBoxOld > div > div > div.SearchBoxOld-inputContainer > div.desktopOldAutosuggestTheme-container > input"
+  }
+}

@@ -17,10 +17,3 @@ Feature: LoginFeature
     And Enter the "PASSWORD_INPUT" send key "123sahabt"
     And Click "SIGNIN_BUTTON" button
     Then Check the "CHECK_LOGIN" information is correct
-
-  Scenario: Search product
-    Given Go to homepage
-    And Enter the "SEARCH_INPUT" send key "araba"
-    And Click "SEARCH_BUTTON" button
-    And wait
-    Then Write to file "SEARCH_LOG"
